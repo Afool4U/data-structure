@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\main.cpp(17,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\main.cpp(64,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\main.cpp(74,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\sort.hpp(28,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\main.cpp(33): message : 查看对正在编译的函数 模板 实例化“void selectSort<int>(std::vector<int,std::allocator<int>> &)”的引用
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\sort.hpp(129,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\main.cpp(88): message : 查看对正在编译的函数 模板 实例化“void radixSort<int>(std::vector<int,std::allocator<int>> &)”的引用
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\sort.hpp(130,21): warning C4018: “<=”: 有符号/无符号不匹配
+  sort.vcxproj -> C:\Users\Administrator\Desktop\ProsForCS\Data Structure\排序\sort\x64\Debug\sort.exe
