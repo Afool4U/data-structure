@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\ProsForCS\Data Structure\图\graph\main.cpp(31,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  graph.vcxproj -> C:\Users\Administrator\Desktop\ProsForCS\Data Structure\图\graph\x64\Debug\graph.exe
