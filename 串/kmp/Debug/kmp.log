@@ -1,0 +1,6 @@
+﻿  kmp.hpp
+  main.cpp
+C:\Users\Administrator\Desktop\暂存文件\所有转专业文件\ProsForCS\Data Structure\串\kmp\kmp.hpp(14,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\暂存文件\所有转专业文件\ProsForCS\Data Structure\串\kmp\kmp.hpp(51,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\暂存文件\所有转专业文件\ProsForCS\Data Structure\串\kmp\kmp.hpp(52,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...

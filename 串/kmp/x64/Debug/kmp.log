@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\暂存文件\所有转专业文件\ProsForCS\Data Structure\串\kmp\main.cpp(35,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\暂存文件\所有转专业文件\ProsForCS\Data Structure\串\kmp\main.cpp(29,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  kmp.vcxproj -> C:\Users\Administrator\Desktop\暂存文件\所有转专业文件\ProsForCS\Data Structure\串\kmp\x64\Debug\kmp.exe
